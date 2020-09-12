@@ -19,3 +19,5 @@ send_http(put whatever you want) - command to start server,
 
 In terminal just write
 ```send_http```
+
+![ScreenShot](https://github.com/vaibhavs2/Share-small-files/blob/master/screenshot.png)
