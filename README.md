@@ -1,13 +1,12 @@
 
-Its helps to share small files and folders between devices, It's based on http.
-It will start a server on your system, when it will run.
-
+# Share-small-files
+Its helps to share small files and folders between devices, It's based on http. It will start a server on your system, when it will run.
 Put provided link in your browser.
 Start accessing your file remotely within range and click on files to download it.
 
-*If you need to share files between your phone and Laptop, connect them via hotspot or common wifi and run this file.*
+* If you need to share files between your phone and Laptop, connect them via hotspot or common wifi and run this file.
 
-You need to have nodeJs installed.
+#### You need to have nodeJs installed.
 Install a npm module
 [Link](https://www.npmjs.com/package/formidable)
 
